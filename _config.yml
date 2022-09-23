@@ -7,13 +7,13 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Mohammad Amin Baqershahi"
+title                    : "Sepehr Rafiei"
 title_separator          : "-"
-name                     : &name "Mohammad Amin Baqershahi"
+name                     : &name "Sepehr Rafiei"
 description              : &description "Computer Engineering BSc. Student at the University of Tehran"
-url                      : https://aminb7.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+url                      : https://cep-ter.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
-repository               : "aminb7.github.io"
+repository               : "cep-ter.github.io"
 teaser                   :  # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"
 breadcrumbs              : false # true, false (default)
 words_per_minute         : 160
@@ -80,13 +80,13 @@ analytics:
 
 # Site Author
 author:
-  name             : "Mohammad Amin Baqershahi"
-  avatar           : "profile1.jpg"
+  name             : "Sepehr Rafiei"
+  avatar           : "sepehr.jpg"
   bio              : "Computer Engineering BSc. Student at the University of Tehran"
   location         :
   employer         :
   pubmed           :
-  email            : "m.baqershahi@gmail.com"
+  email            : "sepehr.rafiei.k@gmail.com"
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
   bitbucket        :
@@ -95,7 +95,7 @@ author:
   flickr           :
   facebook         :
   foursquare       :
-  github           : "aminb7"
+  github           : "cep-ter"
   google_plus      :
   keybase          :
   instagram        :
@@ -105,7 +105,7 @@ author:
   orcid            :
   pinterest        :
   soundcloud       :
-  stackoverflow    : http://stackoverflow.com/users/10812739/amin-baqershahi
+  stackoverflow    : #http://stackoverflow.com/users/10812739/amin-baqershahi
   steam            :
   tumblr           :
   twitter          :
