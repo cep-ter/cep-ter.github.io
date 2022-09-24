@@ -10,9 +10,9 @@ redirect_from:
 
 About
 ======
-I am Mohammad Amin Baqershahi, a recent BSc graduate in Computer Engineering at the University of Tehran. My final bachelor thesis under the supervision of [Prof. Naser Yazdani](https://ece.ut.ac.ir/en/~yazdani) was implementing a new method for data dissemination in wireless sensor networks using multiple mobile sinks. Moreover, I have been working as a research intern at the [Monash university](https://www.monash.edu/) under the supervision of [Prof. Adel Nadjaran Toosi](https://scholar.google.com/citations?user=qIh_I-gAAAAJ&hl=en) to design and implement a new customized heterogeneity-aware scheduler for Kubernetes. I've also been working as a software engineer since September 2021 in the [Snapp](https://snapp.ir/) Company, the pioneer provider of ride-hailing mobile solutions in Iran. During my work in the company, I implemented services, worked with cloud data centers, Kubernetes, AWS, and Openshift, and faced challenges including processing a massive amount of data, and fault tolerance.
+I am Sepehr Rafiei, a recent BSc graduate in Computer Engineering at the University of Tehran. My final bachelor thesis under the supervision of [Prof. Hesham Faili](https://ece.ut.ac.ir/en/~hfaili) and co-supervision of Prof. Mohammad Javad Dousti was in area of machine translation and implemeting quality estimation models of machine translation. I've also been working as a data-scientist/software-search-engineer in the [Snapp](https://snapp.ir/) address experince team designing and implementing Map Search (geocoding) services using NLP & IR techniques to improve the user search experience for geocoding .
 
-My research interests include **Distributed Systems**, **Computer Networks**, **Cloud Computing**, **IoT**, and **Software Engineering**.
+My research interests include **Distributed Algorithms**, **Information Retrival**, **Natural Language Processing**, **Recommender System**, and **Human-computer interaction**.
 
 Currently, I'm seeking graduate positions in the field of my interest. I'd appreciate you letting me know if you are interested in working with me.
 
