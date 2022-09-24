@@ -6,19 +6,20 @@ author_profile: true
 ---
 
 ## B.Sc., in Computer Engineering, __[University of Tehran](https://ut.ac.ir/en)__
-University of Tehran is the first rank university in Iran according to [U.S. News](https://www.usnews.com/education/best-global-universities/iran).
-- GPA: 18.32/20 (3.86/4)
-- Ranked $6^{th}$ among 99 Computer Engineering students
+University of Tehran ranks top among Iran's universities (the first rank university in Iran according to [U.S. News](https://www.usnews.com/education/best-global-universities/iran)) while The CE department is one of the most competitive departmentsis.
+- GPA: 17.58/20(3.7/4) Last two years 18.31/20(3.9/4)
+- Ranked top 20% among 100 Computer Engineering students
 - Related Courses:
-  - Computer Networks (18.8/20)
-  - Internet Engineering (19.3/20)
-  - Introduction to Distributed Computing (19.5/20)
-  - Parallel Computing (18.7/20)
-  - Software Engineering (18.4/20)
-  - Advanced Programming (18.8/20)
-  - Algorithms Design (19.4/20)
-  - Artificial Intelligence (19.5/20)
-  - Human Computer Interaction (19.3/20)
+  - Introduction to the computing system and programming(20/20)
+  - Parallel Computing (19/20)
+  - Computer Networks (19/20)
+  - Artificial Intelligence(20/20)
+  - Design and analysis of algorithms(20/20)
+  - Advanced Graph Algorithm(17.3/20)
+  - Formal Language and Automata (18.7/20)
 
-## Diploma, in Mathematics and Physics, Mofid Highschool
-- GPA: 19.92/20
+## Diploma, in Mathematics and Physics, Shahid Ejei(NODET)
+Diploma in Mathematics and Physics Discipline - NODET (National Organization for Development of Exceptional Talents
+
+
+ 
