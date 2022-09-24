@@ -7,4 +7,4 @@ redirect_from:
   - /resume
 ---
 
-<embed src="/files/mycv.pdf" width="100%" height="100%" type="application/pdf">
+<embed src="/files/resume.pdf" width="100%" height="100%" type="application/pdf">
