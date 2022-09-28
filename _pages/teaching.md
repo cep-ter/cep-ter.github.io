@@ -6,7 +6,7 @@ author_profile: true
 ---
 
 ### University of Tehran
-- Computer Networks
+<!-- - Computer Networks
     - Instructor: [Prof. Naser Yazdani](https://ece.ut.ac.ir/en/~yazdani)
     - Semestors: Spring 2022
 - Internet Engineering
@@ -26,4 +26,4 @@ author_profile: true
     - Semestors: Spring 2021
 - Data Structures and Algorithms
     - Instructor: [Dr. Hesham Faili](https://ece.ut.ac.ir/en/~hfaili)
-    - Semestors: Fall 2020, Spring 2021
+    - Semestors: Fall 2020, Spring 2021 -->
