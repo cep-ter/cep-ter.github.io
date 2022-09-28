@@ -7,4 +7,5 @@ redirect_from:
   - /resume
 ---
 
-<embed src="/files/transcript.pdf" width="100%" height="100%" type="application/pdf">
+Contact sepehr.rafiei.k@gmail.com
+<!-- <embed src="/files/transcript.pdf" width="100%" height="100%" type="application/pdf"> -->
