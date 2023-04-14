@@ -1,5 +1,7 @@
 {% if site.analytics.provider and page.analytics != false %}
 
+{% include /analytics-providers/custom.html %}
+
 {% case site.analytics.provider %}
 {% when "google" %}
   {% include /analytics-providers/google.html %}
