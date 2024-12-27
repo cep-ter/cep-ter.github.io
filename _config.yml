@@ -21,7 +21,7 @@ repository               : "cep-ter.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "SepehrR.jpg"
+  avatar           : "SepehrRa.png"
   name             : "Sepehr Rafiei"
   pronouns         : # example: "she/her"  
   bio              : "Computer Engineering BSc. Student at the University of Tehran"
@@ -44,7 +44,7 @@ author:
   bitbucket        : # Username - Update with your username on the site
   codepen          : # Username
   dribbble         : # Username
-  github           : "https://github.com/cep-ter"
+  github           : "cep-ter"
   kaggle           : # Username  
   stackoverflow    : # User number or user number and name (i.e., use "1" or "1/jeff-atwood")    
 
@@ -58,7 +58,7 @@ author:
   keybase          : # Username
   instagram        : # Username
   lastfm           : # Username
-  linkedin         : # Username
+  linkedin         : "sepehr-rafiei"
   mastodon         : # URL
   medium           : # URL
   pinterest        : # Username
